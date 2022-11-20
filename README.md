@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin Vannarath</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working at [Haus Division](https://www.hausdivision.com/fr/home)
+- 🔭 I’m currently working at [Digital Cover](https://digital-cover.com/)
 
 - 📫 How to reach me **qvannarath@gmail.com**
 
